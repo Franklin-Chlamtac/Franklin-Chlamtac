@@ -1,7 +1,10 @@
 
 ### 🤠 Olá! 🤠
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+### Contact me via:
+
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### franklinchlamtac@gmail.com
 
 ![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklin-Chlamtac&show_icons=true&theme=tokyonight)
 
